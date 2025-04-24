@@ -1,4 +1,4 @@
-Jira is an agile project management tool used by teams to plan, track, release, and support software with confidence. One of its key features is the Kanban board, which visually represents ongoing work. The Kanban board allows teams to manage their workflow by dragging and dropping tasks, ensuring everyone can see task statuses in real-time.
+Jira-KanbanBoard is an agile project management tool used by teams to plan, track, release, and support software with confidence. One of its key features is the Kanban board, which visually represents ongoing work. The Kanban board allows teams to manage their workflow by dragging and dropping tasks, ensuring everyone can see task statuses in real-time.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
